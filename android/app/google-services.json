@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73854206749",
+    "firebase_url": "https://skripsi-28b6d.firebaseio.com",
+    "project_id": "skripsi-28b6d",
+    "storage_bucket": "skripsi-28b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73854206749:android:91f6a71ecf5fc32fcad7f4",
+        "android_client_info": {
+          "package_name": "com.example.demodemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73854206749-isv9kfutldq9vtdk4a6nsmbsm0cnea1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFaUBIfnNjFIdMuE6iLEOrpOdVtmtV0HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73854206749-isv9kfutldq9vtdk4a6nsmbsm0cnea1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
